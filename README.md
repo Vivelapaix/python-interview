@@ -9,6 +9,11 @@
 * [Вопросы](https://pikabu.ru/story/chto_stoit_znat_junior_developery_python_5568045)
 * [Вопросы](https://fulcrum.software/ua/python-%D0%BD%D0%B0%D1%88%D0%B8-%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%D1%8B-%D0%BD%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%81%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B8/)
 * [Вопросы](https://grishaev.me/interview/)
+* [Вопросы](https://thenno.me/blog/python-interview.html)
+* [Вопросы](https://sysdev.me/python-interviews/)
+* [Вопросы](https://www.linux.org.ru/forum/development/14872376)
+* [Вопросы](https://zxmd.wordpress.com/2010/11/23/python_interview_questions/)
+* [Вопросы](https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6?icn=post-3ey8yl7epg&ici=post-du107ozr6)
 
 Python позволяет именовать функции как угодно, т.е. можно даже назвать функцию `open`. Ответ: `open` находится в namespace [builtins](https://docs.python.org/3/library/functions.html)
 
