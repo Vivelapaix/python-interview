@@ -14,6 +14,7 @@
 * [Вопросы](https://www.linux.org.ru/forum/development/14872376)
 * [Вопросы](https://zxmd.wordpress.com/2010/11/23/python_interview_questions/)
 * [Вопросы](https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6?icn=post-3ey8yl7epg&ici=post-du107ozr6)
+* [Вопросы](https://www.codementor.io/sheena/essential-python-interview-questions-du107ozr6?icn=post-3ey8yl7epg&ici=post-du107ozr6)
 
 Python позволяет именовать функции как угодно, т.е. можно даже назвать функцию `open`. Ответ: `open` находится в namespace [builtins](https://docs.python.org/3/library/functions.html)
 
