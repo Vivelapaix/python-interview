@@ -19,3 +19,34 @@
 Python позволяет именовать функции как угодно, т.е. можно даже назвать функцию `open`. Ответ: `open` находится в namespace [builtins](https://docs.python.org/3/library/functions.html)
 
 Как найти объект в списке? А что будет, если обратиться по индексу, если список пуст? А что будет, если искомого объекта нет в списке?
+
+
+Algorithms						Грокаем алгоритмы, Адитья Бхаргава
+Design patterns 					https://refactoring.guru/design-patterns/what-is-pattern
+							Фримен Э., Паттерны проектирования
+SOLID                                                                        Чистая архитектура, Роберт Мартин (часть 3)
+Relational databases
+Indexes (HASH, B-tree, GiST) 	  	https://habr.com/ru/company/postgrespro/blog/326096/
+Data normalization and denormalization 	https://habr.com/ru/post/254773/
+Transactions 					https://habr.com/ru/post/557536/
+https://habr.com/ru/post/558248/
+https://habr.com/ru/company/simbirsoft/blog/572540/
+Python
+GIL, multithreading				https://habr.com/ru/post/84629/
+Inheritance, multiple inheritance		https://www.geeksforgeeks.org, https://habr.com/ru/post/
+Metaclass					https://habr.com/ru/post/145835/ 
+Context manager				https://realpython.com/python-with-statement/
+Decorators					https://habr.com/post/141411/, https://habr.com/post/
+Asyncio					https://habr.com/ru/post/337420/
+
+REST							https://habr.com/ru/post/319984/
+Code analyzers					https://proglib.io/p/python-code-analysis 
+JWT authentication					https://habr.com/ru/post/340146/, https://habr.com/ru/post/
+Profiling and debugging				https://habr.com/ru/co...,https://habr.com/ru/c…
+Microservice architecture				https://habr.com/ru/company/e-Legion/blog/579848/
+Refactoring						https://refactoring.com/catalog/
+
+Django
+Request-response cycle 			https://medium.com...
+ORM						https://habr.com/ru/post/503526/, https://djangobook.com.., 
+Rest-framework				https://www.django-rest-framework.org/tutorial/quickstart/
